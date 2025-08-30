@@ -1,4 +1,4 @@
-# Metodos-de-Regressao-Aprendizagem-de-MAquina-
+# Metodos-de-Regressao-Aprendizagem-de-Maquina-
 
 Autores: David A. Brocardo e Leonardo B. Balan de Oliveira
 
